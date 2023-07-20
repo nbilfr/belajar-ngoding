@@ -30,7 +30,8 @@ maka hasilnya akan true jika tidak ya false
 */
 function palindrome(kata) {
   var kataterbalik = '';
-  for (var check of kata) {     kataterbalik = check + kataterbalik;   
+  for (var check of kata) {   
+      kataterbalik = check + kataterbalik;   
       
   }  
   return kata === kataterbalik;
