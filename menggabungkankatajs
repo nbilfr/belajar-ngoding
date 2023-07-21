@@ -1,0 +1,15 @@
+let word = 'JavaScript';
+let second = 'is';
+let third = 'awesome';
+let fourth = 'and';
+let fifth = 'I';
+let sixth = 'love';
+let seventh = 'it!';
+/*
+cara menggabungkan string menjadi 1
+kita panggil semua variable di satukan di console log
+gunanya menambahkan setelah variable + untuk variable selanjutnya apa yak + ' ' 
+fungsi nya menambahkan ' ' untuk merikan spasi di console nya
+seperti ini console.log(variable1 + '' + variable2 dan seterusnya);
+*/
+console.log(word + ' ' + second + ' ' + third + ' ' + fourth + ' ' + fifth + ' ' + sixth + ' ' + seventh);
