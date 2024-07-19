@@ -1,7 +1,7 @@
 @shift /0
 echo off
 mode 50,14
-title Fivem Cleaner :)
+title RUNNING FIVEM CLEANER
 call :getDiscordVersion
 cls
 goto :xboxclean
